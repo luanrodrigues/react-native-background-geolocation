@@ -1,2 +1,2 @@
-include ':BackgroundGeolocation'
 include ':RCTBackgroundGeolocation'
+include ':BackgroundGeolocation'
