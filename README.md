@@ -196,7 +196,7 @@ dependencies {
 }
 ```
 
-In `android/src/main/res/values/strings.xml`
+In `android/app/src/main/res/values/strings.xml`
 
 Properties `@account_type` and `@content_authority` should be prefixed with your application package class.
 
